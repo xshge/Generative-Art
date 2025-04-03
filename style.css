@@ -16,8 +16,16 @@ body {
     /* align-items: center; */
 }
 
+.nova-mono-regular {
+    font-family: "Nova Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+
 .heading {
     color: orchid;
+    width: 45vw;
+    font-size: 5rem;
 }
 
 .instruct {
@@ -28,7 +36,7 @@ body {
     gap: 1rem;
     float: right;
     position: fixed;
-    top: 5%;
+    top: 1%;
     right: 0;
 
 }
